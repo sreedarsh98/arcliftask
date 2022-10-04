@@ -1,0 +1,59 @@
+.header{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 60px;
+  border-bottom: 1px solid #f2efef;
+}
+.header .container{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+ 
+}
+
+.header ul{
+  display: flex;
+  align-items: center;
+  list-style: none;
+  text-decoration: none;
+  margin: 0;
+}
+
+.header ul li{
+  padding:0 20px;
+  list-style: none;
+  text-decoration: none;
+  color:#DC8015 ;
+}
+.header ul li a{
+  font-weight: 400;
+  list-style: none;
+  text-decoration: none;
+  color:#DC8015 ;
+}
+.consultantbutton{
+  padding: 5px 15px !important;
+  border: 1px solid #DC8015;
+  border-radius: 5px;
+}
+.text-blue{
+  color:  #112C56;
+  font-weight: 400;
+}
+.text-orange{
+  color:  #DC8015;
+  font-weight: 400;
+}
+.bg-blue{
+ background-color:  #112C56;
+
+}
+.logo{
+  display: flex;
+  align-items: center;
+}
+
+.logopara{
+  padding: 0 10px;
+}
